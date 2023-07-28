@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [huddle-landing-page]((https://kezzzah.github.io/huddle-landing-page/))
+- Live Site URL: [huddle-landing-page](https://kezzzah.github.io/huddle-landing-page/)
 
 ## My process
 
